@@ -304,6 +304,7 @@ markers:
   - {type: line-break, offset: 1552, content: '', id: KR4e0004_SBCK_026-3a14}
   - {type: indent, offset: 1552, content: 　　, id: KR4e0004_SBCK_026-bkkind3}
   - {type: punctuation, offset: 1556, content: (, id: KR4e0004_SBCK_026-bkkpn1}
+  - {type: voice, offset: 1556, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1558, content: ), id: KR4e0004_SBCK_026-bkkpn2}
   - {type: 'kr:newline', offset: 1558, content: '
 
@@ -486,6 +487,7 @@ markers:
   - {type: line-break, offset: 2373, content: '', id: KR4e0004_SBCK_026-4b13}
   - {type: indent, offset: 2373, content: 　　, id: KR4e0004_SBCK_026-bkkind7}
   - {type: punctuation, offset: 2382, content: (, id: KR4e0004_SBCK_026-bkkpn3}
+  - {type: voice, offset: 2382, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2384, content: ), id: KR4e0004_SBCK_026-bkkpn4}
   - {type: 'kr:newline', offset: 2384, content: '
 
@@ -573,6 +575,7 @@ markers:
       ', id: KR4e0004_SBCK_026-bkkkrnewl138}
   - {type: line-break, offset: 2759, content: '', id: KR4e0004_SBCK_026-5b04}
   - {type: punctuation, offset: 2775, content: (, id: KR4e0004_SBCK_026-bkkpn5}
+  - {type: voice, offset: 2775, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2776, content: ), id: KR4e0004_SBCK_026-bkkpn6}
   - {type: 'kr:newline', offset: 2782, content: '
 
@@ -592,6 +595,7 @@ markers:
   - {type: line-break, offset: 2848, content: '', id: KR4e0004_SBCK_026-5b08}
   - {type: indent, offset: 2848, content: 　　, id: KR4e0004_SBCK_026-bkkind9}
   - {type: punctuation, offset: 2851, content: (, id: KR4e0004_SBCK_026-bkkpn7}
+  - {type: voice, offset: 2851, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2853, content: ), id: KR4e0004_SBCK_026-bkkpn8}
   - {type: 'kr:newline', offset: 2853, content: '
 
@@ -1411,4 +1415,4 @@ markers:
 
       ', id: KR4e0004_SBCK_026-bkkkrnewl337}
   back: []
-hash: sha256:3aaae6eccb804755053a76874ebb02427dcb5c5f21906b80acb1128915cba625
+hash: sha256:a6014eb5648b48271f9f0db8956d58c8b0d556df3707ec2c2c63a1982d635313

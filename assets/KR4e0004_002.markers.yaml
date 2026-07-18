@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4e0004_SBCK_002-1a01}
   - {type: indent, offset: 8, content: 　, id: KR4e0004_krp_002-bkkind1}
   - {type: punctuation, offset: 14, content: (, id: KR4e0004_krp_002-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4e0004_bkk_002-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: variant, offset: 16, length: 1, content: 苑, SBCK: 􅁐}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4e0004_krp_002-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4e0004_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4e0004_SBCK_002-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4e0004_krp_002-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4e0004_bkk_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 2, length: 1, content: 敕, SBCK: 􅃙}
   - {type: substitution, offset: 7, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: 'kr:newline', offset: 21, content: '
@@ -3173,4 +3175,4 @@ markers:
 
       ', id: KR4e0004_krp_002-bkkkrnewl515}
   back: []
-hash: sha256:2eedd2881d920a77dc224c84a1ac476b743dc6a398c7ae79ab081a60762bcf2b
+hash: sha256:c7b4238afefed8e28edca9ec55e39cfd1ea5c93514257eace19cdda5a9843683
